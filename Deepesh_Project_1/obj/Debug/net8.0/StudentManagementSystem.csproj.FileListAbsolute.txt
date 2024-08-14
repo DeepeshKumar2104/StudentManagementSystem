@@ -1,0 +1,14 @@
+E:\Deepesh_Project_1\Deepesh_Project_1\bin\Debug\net8.0\StudentManagementSystem.exe
+E:\Deepesh_Project_1\Deepesh_Project_1\bin\Debug\net8.0\StudentManagementSystem.deps.json
+E:\Deepesh_Project_1\Deepesh_Project_1\bin\Debug\net8.0\StudentManagementSystem.runtimeconfig.json
+E:\Deepesh_Project_1\Deepesh_Project_1\bin\Debug\net8.0\StudentManagementSystem.dll
+E:\Deepesh_Project_1\Deepesh_Project_1\bin\Debug\net8.0\StudentManagementSystem.pdb
+E:\Deepesh_Project_1\Deepesh_Project_1\obj\Debug\net8.0\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Deepesh_Project_1\Deepesh_Project_1\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfoInputs.cache
+E:\Deepesh_Project_1\Deepesh_Project_1\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfo.cs
+E:\Deepesh_Project_1\Deepesh_Project_1\obj\Debug\net8.0\StudentManagementSystem.csproj.CoreCompileInputs.cache
+E:\Deepesh_Project_1\Deepesh_Project_1\obj\Debug\net8.0\StudentManagementSystem.dll
+E:\Deepesh_Project_1\Deepesh_Project_1\obj\Debug\net8.0\refint\StudentManagementSystem.dll
+E:\Deepesh_Project_1\Deepesh_Project_1\obj\Debug\net8.0\StudentManagementSystem.pdb
+E:\Deepesh_Project_1\Deepesh_Project_1\obj\Debug\net8.0\StudentManagementSystem.genruntimeconfig.cache
+E:\Deepesh_Project_1\Deepesh_Project_1\obj\Debug\net8.0\ref\StudentManagementSystem.dll

@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Deepesh_Project_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68A4E63E-9799-4C72-B882-834D1D20FD95}|Deepesh_Project_1\\StudentManagementSystem.csproj|e:\\deepesh_project_1\\deepesh_project_1\\methodclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A4E63E-9799-4C72-B882-834D1D20FD95}|Deepesh_Project_1\\StudentManagementSystem.csproj|solutionrelative:deepesh_project_1\\methodclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A4E63E-9799-4C72-B882-834D1D20FD95}|Deepesh_Project_1\\StudentManagementSystem.csproj|e:\\deepesh_project_1\\deepesh_project_1\\messagemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A4E63E-9799-4C72-B882-834D1D20FD95}|Deepesh_Project_1\\StudentManagementSystem.csproj|solutionrelative:deepesh_project_1\\messagemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A4E63E-9799-4C72-B882-834D1D20FD95}|Deepesh_Project_1\\StudentManagementSystem.csproj|e:\\deepesh_project_1\\deepesh_project_1\\studentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A4E63E-9799-4C72-B882-834D1D20FD95}|Deepesh_Project_1\\StudentManagementSystem.csproj|solutionrelative:deepesh_project_1\\studentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A4E63E-9799-4C72-B882-834D1D20FD95}|Deepesh_Project_1\\StudentManagementSystem.csproj|e:\\deepesh_project_1\\deepesh_project_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A4E63E-9799-4C72-B882-834D1D20FD95}|Deepesh_Project_1\\StudentManagementSystem.csproj|solutionrelative:deepesh_project_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageMethod.cs",
+              "DocumentMoniker": "E:\\Deepesh_Project_1\\Deepesh_Project_1\\MessageMethod.cs",
+              "RelativeDocumentMoniker": "Deepesh_Project_1\\MessageMethod.cs",
+              "ToolTip": "E:\\Deepesh_Project_1\\Deepesh_Project_1\\MessageMethod.cs",
+              "RelativeToolTip": "Deepesh_Project_1\\MessageMethod.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T03:52:03.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentClass.cs",
+              "DocumentMoniker": "E:\\Deepesh_Project_1\\Deepesh_Project_1\\StudentClass.cs",
+              "RelativeDocumentMoniker": "Deepesh_Project_1\\StudentClass.cs",
+              "ToolTip": "E:\\Deepesh_Project_1\\Deepesh_Project_1\\StudentClass.cs",
+              "RelativeToolTip": "Deepesh_Project_1\\StudentClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:01:52.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MethodClass.cs",
+              "DocumentMoniker": "E:\\Deepesh_Project_1\\Deepesh_Project_1\\MethodClass.cs",
+              "RelativeDocumentMoniker": "Deepesh_Project_1\\MethodClass.cs",
+              "ToolTip": "E:\\Deepesh_Project_1\\Deepesh_Project_1\\MethodClass.cs",
+              "RelativeToolTip": "Deepesh_Project_1\\MethodClass.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAYwHcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:01:38.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Deepesh_Project_1\\Deepesh_Project_1\\Program.cs",
+              "RelativeDocumentMoniker": "Deepesh_Project_1\\Program.cs",
+              "ToolTip": "E:\\Deepesh_Project_1\\Deepesh_Project_1\\Program.cs",
+              "RelativeToolTip": "Deepesh_Project_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T00:43:51.991Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
